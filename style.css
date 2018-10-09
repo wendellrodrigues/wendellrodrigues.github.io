@@ -1,0 +1,50 @@
+.navbar-dark .navbar-brand {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 900;
+}
+
+html{
+    background-color: #2D2C2C;
+}
+
+body{
+    background-color: #2D2C2C;
+}
+
+.nav-item{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+}
+
+.navbar-dark .navbar-toggler-icon {
+    border: none;
+}
+
+#background{
+    vertical-align: 0px;
+    height: 550px;
+    width: 800px;
+    background-color: #2D2C2C;
+}
+
+
+
+
+
+
+.container{
+    color: white;
+    margin-left: 25px;
+    margin-right: 25px;
+    max-width: 1850px;
+}
+
+.col{
+
+}
+
+#emailBox{
+    background-color: grey;
+    height: 700px;
+    width: 400px;
+}
